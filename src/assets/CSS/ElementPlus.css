@@ -1,0 +1,12 @@
+.el-tag {
+  padding: 0 7rem!important;
+  height: 40rem!important;
+}
+.el-carousel__arrow {
+  width: 70rem!important;
+  height: 70rem!important;
+}
+.el-carousel__arrow .el-icon {
+  font-size: 26rem;
+  color: var(--el-menu-text-color);
+}
